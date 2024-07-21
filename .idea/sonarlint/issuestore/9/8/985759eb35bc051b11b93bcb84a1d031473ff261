@@ -1,0 +1,16 @@
+
+L	java:S106G"+Replace this use of System.out by a logger.(´Òçãıÿÿÿÿ8Ùªƒ¥Œ2
+V
+java:S1172O"9Remove this unused method parameter "selectedProblemIds".(ûï‘ë8±”áû‹2
+R
+java:S1172X"6Remove this unused method parameter "selectedTeamIds".(’Åò8Ğìƒ¥Œ2
+]
+java:S1128";Remove this unused import 'com.nucleus.dao.judge.JudgeDao'.(ıê—½øÿÿÿÿ8üŠšÒŒ2
+R
+java:S1128"5Remove this unused import 'com.nucleus.dto.JudgeDTO'.(å¤¨Ÿ8şŠšÒŒ2
+w
+java:S1128"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ğùçøùÿÿÿÿ8€‹šÒŒ2
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8‹šÒŒ2
+M
+java:S1068"0Remove this unused "judgeService" private field.(¬­Ãã8ŞùÏ¨Œ2

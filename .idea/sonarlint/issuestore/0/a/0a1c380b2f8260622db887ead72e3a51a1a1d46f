@@ -1,0 +1,19 @@
+
+j
+java:S1192|"HDefine a constant instead of duplicating this literal "Failure" 5 times.(ÜøÁÄıÿÿÿÿ8¥´¬¥Œ2
+‡
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8Ê´¬¥Œ2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ë´¬¥Œ2
+_
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ë´¬¥Œ2
+_
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ë´¬¥Œ2
+_
+java:S6813&"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ë´¬¥Œ2
+b
+java:S4684I"@Replace this persistent entity with a simple POJO or DTO object.(†é“ûÿÿÿÿ8Ş´¬¥Œ2
+]	java:S125c"<This block of commented-out lines of code should be removed.( Úœóıÿÿÿÿ8á´¬¥Œ2
+H	java:S106"+Replace this use of System.out by a logger.(¶ãµ€8é´¬¥Œ2
+H	java:S106£"+Replace this use of System.out by a logger.(™³ã‡8ê´¬¥Œ2
+H	java:S106­"+Replace this use of System.out by a logger.(Å˜í¾8 Íæ©Œ2

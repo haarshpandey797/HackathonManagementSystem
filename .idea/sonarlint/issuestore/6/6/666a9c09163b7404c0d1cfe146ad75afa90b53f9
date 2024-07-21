@@ -1,0 +1,18 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ûñØ
+q
+java:S2259r"OA "NullPointerException" could be thrown; "judgeEventMapping" is nullable here.(¶ë¶üÿÿÿÿ8­†’û‹2
+g
+java:S2095$"EUse try-with-resources or close this "Session" in a "finally" clause.(´Ï‚‘ùÿÿÿÿ8­†’û‹2
+f
+java:S2583A"DChange this condition so that it does not always evaluate to "false"(ø–©¤üÿÿÿÿ8½¶ƒŒ2
+Q	java:S125"<This block of commented-out lines of code should be removed.(âÌÎå
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8®†’û‹2
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¯†’û‹2
+_
+java:S6813 "BRemove this field injection and use constructor injection instead.(êæÄŞ8¯†’û‹2
+G	java:S1067"+Replace this use of System.out by a logger.(”¼ŒÅ8»†’û‹2
+;
+java:S1128"Remove this duplicated import.(øÎ²ˆ8‹üÒÎ‹2

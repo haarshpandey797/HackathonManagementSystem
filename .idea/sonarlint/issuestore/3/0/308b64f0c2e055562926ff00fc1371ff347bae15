@@ -1,0 +1,14 @@
+
+R
+java:S1128"5Remove this unused import 'com.nucleus.dto.EventDTO'.(øÎ²ˆ8óÏšÒŒ2
+R
+java:S1128"5Remove this unused import 'com.nucleus.dto.JudgeDTO'.(å¤¨Ÿ8õÏšÒŒ2
+h
+java:S1128
+"KRemove this unused import 'com.nucleus.service.hackathon.HackathonService'.(†¹¾’8÷ÏšÒŒ2
+e
+java:S1128"CRemove this unused import 'com.nucleus.service.judge.JudgeService'.(­¯õœÿÿÿÿÿ8øÏšÒŒ2
+Q
+java:S1068"/Remove this unused "judgeMapper" private field.(©ãØçùÿÿÿÿ8¥æÒ¨Œ2
+L
+java:S1068"/Remove this unused "eventMapper" private field.(¢ºÍ8¦æÒ¨Œ2

@@ -1,0 +1,11 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8±³„‰2J$70afb642-e988-47c3-b262-b61625bc70db
+
+java:S3252A"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(üŒèù8ïäÀ™‡2J$921c9380-6188-4bc2-aa3e-fe1953bd3639
+“
+java:S3252B"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(ÍÇéĞ8ïäÀ™‡2J$7e8306e8-bd65-48c9-be50-a9c2a14f8239
+”
+java:S3252C"LUse static access with "org.hibernate.cfg.AvailableSettings" for "SHOW_SQL".(¬¿ÈÍüÿÿÿÿ8ğäÀ™‡2J$8bb6e4d4-a362-4eea-b243-87391558691d
+–
+java:S3252D"NUse static access with "org.hibernate.cfg.AvailableSettings" for "FORMAT_SQL".(¤”Ìşÿÿÿÿ8ğäÀ™‡2J$a6c34c0d-a2a1-4659-84aa-7281254bed4d

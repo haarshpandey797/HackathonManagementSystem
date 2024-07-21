@@ -1,0 +1,17 @@
+
+F
+java:S1068"+Remove this unused "judgeId" private field.(úá×âûÿÿÿÿ
+C
+java:S1068"-Remove this unused "judgeName" private field.(ÛùÍ†
+A
+java:S1068"+Remove this unused "judgeBU" private field.(»ÜÿÂ
+M
+java:S1068"2Remove this unused "judgeContactNo" private field.(´œŸ«øÿÿÿÿ
+D
+java:S1068".Remove this unused "judgeEmail" private field.(İû€ø
+I
+java:S1068"4Remove this unused "judgeDesignation" private field.(Âêä
+I
+java:S1068"3Remove this unused "judgeEmployeeId" private field.(äãƒÛ
+I
+java:S1068"3Remove this unused "judgesPanelList" private field.(¹ù¥è
